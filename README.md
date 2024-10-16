@@ -12,7 +12,11 @@
 <img src="https://github.com/Xinming-Dai/cryptocurrency-value-prediction/blob/main/figures/bsts_true_and_predict.png" width="800" />
 
 ## 方法
-* Logistic Regression
-* ARIMA
-* Bayesian Structural Time Series(BSTS)
-* Random Forest
+* 逻辑回归（Logistic Regression）
+* 自回归积分滑动平均（ARIMA）
+* 贝叶斯结构时间序列(BSTS)
+* 随机森林（Random Forest）
+
+
+## 分析报告
+https://drive.google.com/file/d/1cMT_6c7novdknd_53y64fbpzBbOvq9qY/view?usp=drive_link
